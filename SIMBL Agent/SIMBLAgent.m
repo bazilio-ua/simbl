@@ -6,7 +6,6 @@
 
 #import "SIMBL.h"
 #import "SIMBLAgent.h"
-#import <ScriptingBridge/ScriptingBridge.h>
 #import <Carbon/Carbon.h>
 
 @implementation NSApplication (SystemVersion)
